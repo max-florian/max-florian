@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=max-florian&label=Profile%20views&color=0e75b6&style=flat" alt="max-florian" /> </p>
 
-- 🔭 I’m currently working on **facebook, gmail and paypal integration with firebase**
+- 🔭 I’m currently working on a **Unity mobile game about space**
 
-- 🌱 I’m currently learning **React JS, React Native and UiPath Studio**
+- 🌱 I’m currently learning **.NET Framework and Unity**
 
 - 📫 How to reach me **maxgt734@gmail.com**
 
