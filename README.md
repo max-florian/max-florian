@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=max-florian&label=Profile%20views&color=0e75b6&style=flat" alt="max-florian" /> </p>
 
-- 🔭 I’m currently working on a **Unity mobile game about space**
+- 🔭 I’m currently working on a **Webstite that helps people find the best deals on different products**
 
-- 🌱 I’m currently learning **.NET Framework and Unity**
+- 🌱 I’m currently learning **MongoDB**
 
 - 📫 How to reach me **maxgt734@gmail.com**
 
