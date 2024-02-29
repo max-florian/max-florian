@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **maxgt734@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/35PynFw](https://bit.ly/35PynFw)
+- 📄 Know about my experiences [https://bit.ly/3wxmxgC](https://bit.ly/3wxmxgC)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
